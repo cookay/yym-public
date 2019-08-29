@@ -1,6 +1,6 @@
 {
-	"versionCode":3,
-	"versionName":"1.0.2",
-	"changeLog":"新增更新检测功能；\n新增双重暴击计算；\n新增支持阴阳师OCR御魂导出器json文件导入；\n等等。",
-	"downloadUrl":"https://github.com/cookay/yym-public/releases/download/1.0.2/yym-1.0.2.apk"
+	"versionCode":4,
+	"versionName":"1.0.3",
+	"changeLog":"修正生命两件套加成数值。",
+	"downloadUrl":"https://github.com/cookay/yym-public/releases/download/1.0.3/yym-1.0.3.apk"
 }
