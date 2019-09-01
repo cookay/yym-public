@@ -1,0 +1,260 @@
+[
+  {
+    "id": 300002,
+    "name": "雪幽魂",
+    "dualSuiteBonusType": "防御加成",
+    "dualSuiteBonusValue": 30
+  },
+  {
+    "id": 300003,
+    "name": "地藏像",
+    "dualSuiteBonusType": "生命加成",
+    "dualSuiteBonusValue": 15
+  },
+  {
+    "id": 300004,
+    "name": "蝠翼",
+    "dualSuiteBonusType": "攻击加成",
+    "dualSuiteBonusValue": 15
+  },
+  {
+    "id": 300006,
+    "name": "涅槃之火",
+    "dualSuiteBonusType": "生命加成",
+    "dualSuiteBonusValue": 15
+  },
+  {
+    "id": 300007,
+    "name": "三味",
+    "dualSuiteBonusType": "暴击",
+    "dualSuiteBonusValue": 15
+  },
+  {
+    "id": 300008,
+    "name": "魍魉之匣",
+    "dualSuiteBonusType": "效果抵抗",
+    "dualSuiteBonusValue": 15
+  },
+  {
+    "id": 300009,
+    "name": "被服",
+    "dualSuiteBonusType": "生命加成",
+    "dualSuiteBonusValue": 15
+  },
+  {
+    "id": 300010,
+    "name": "招财猫",
+    "dualSuiteBonusType": "防御加成",
+    "dualSuiteBonusValue": 30
+  },
+  {
+    "id": 300011,
+    "name": "反枕",
+    "dualSuiteBonusType": "防御加成",
+    "dualSuiteBonusValue": 30
+  },
+  {
+    "id": 300012,
+    "name": "轮入道",
+    "dualSuiteBonusType": "攻击加成",
+    "dualSuiteBonusValue": 15
+  },
+  {
+    "id": 300013,
+    "name": "日女巳时",
+    "dualSuiteBonusType": "防御加成",
+    "dualSuiteBonusValue": 30
+  },
+  {
+    "id": 300014,
+    "name": "镜姬",
+    "dualSuiteBonusType": "生命加成",
+    "dualSuiteBonusValue": 15
+  },
+  {
+    "id": 300015,
+    "name": "钟灵",
+    "dualSuiteBonusType": "生命加成",
+    "dualSuiteBonusValue": 15
+  },
+  {
+    "id": 300018,
+    "name": "狰",
+    "dualSuiteBonusType": "攻击加成",
+    "dualSuiteBonusValue": 15
+  },
+  {
+    "id": 300019,
+    "name": "火灵",
+    "dualSuiteBonusType": "效果命中",
+    "dualSuiteBonusValue": 15
+  },
+  {
+    "id": 300020,
+    "name": "鸣屋",
+    "dualSuiteBonusType": "攻击加成",
+    "dualSuiteBonusValue": 15
+  },
+  {
+    "id": 300021,
+    "name": "薙魂",
+    "dualSuiteBonusType": "生命加成",
+    "dualSuiteBonusValue": 15
+  },
+  {
+    "id": 300022,
+    "name": "心眼",
+    "dualSuiteBonusType": "攻击加成",
+    "dualSuiteBonusValue": 15
+  },
+  {
+    "id": 300023,
+    "name": "木魅",
+    "dualSuiteBonusType": "防御加成",
+    "dualSuiteBonusValue": 30.0
+  },
+  {
+    "id": 300024,
+    "name": "树妖",
+    "dualSuiteBonusType": "生命加成",
+    "dualSuiteBonusValue": 15
+  },
+  {
+    "id": 300026,
+    "name": "网切",
+    "dualSuiteBonusType": "暴击",
+    "dualSuiteBonusValue": 15
+  },
+  {
+    "id": 300027,
+    "name": "阴摩罗",
+    "dualSuiteBonusType": "攻击加成",
+    "dualSuiteBonusValue": 15
+  },
+  {
+    "id": 300029,
+    "name": "伤魂鸟",
+    "dualSuiteBonusType": "暴击",
+    "dualSuiteBonusValue": 15
+  },
+  {
+    "id": 300030,
+    "name": "破势",
+    "dualSuiteBonusType": "暴击",
+    "dualSuiteBonusValue": 15
+  },
+  {
+    "id": 300031,
+    "name": "镇墓兽",
+    "dualSuiteBonusType": "暴击",
+    "dualSuiteBonusValue": 15
+  },
+  {
+    "id": 300032,
+    "name": "珍珠",
+    "dualSuiteBonusType": "防御加成",
+    "dualSuiteBonusValue": 30
+  },
+  {
+    "id": 300033,
+    "name": "骰子鬼",
+    "dualSuiteBonusType": "效果抵抗",
+    "dualSuiteBonusValue": 15
+  },
+  {
+    "id": 300034,
+    "name": "蚌精",
+    "dualSuiteBonusType": "效果命中",
+    "dualSuiteBonusValue": 15
+  },
+  {
+    "id": 300035,
+    "name": "魅妖",
+    "dualSuiteBonusType": "防御加成",
+    "dualSuiteBonusValue": 30
+  },
+  {
+    "id": 300036,
+    "name": "针女",
+    "dualSuiteBonusType": "暴击",
+    "dualSuiteBonusValue": 15
+  },
+  {
+    "id": 300039,
+    "name": "返魂香",
+    "dualSuiteBonusType": "效果抵抗",
+    "dualSuiteBonusValue": 15
+  },
+  {
+    "id": 300048,
+    "name": "狂骨",
+    "dualSuiteBonusType": "攻击加成",
+    "dualSuiteBonusValue": 15
+  },
+  {
+    "id": 300049,
+    "name": "幽谷响",
+    "dualSuiteBonusType": "效果抵抗",
+    "dualSuiteBonusValue": 15
+  },
+  {
+    "id": 300050,
+    "name": "土蜘蛛",
+    "dualSuiteBonusType": null,
+    "dualSuiteBonusValue": null
+  },
+  {
+    "id": 300051,
+    "name": "胧车",
+    "dualSuiteBonusType": null,
+    "dualSuiteBonusValue": null
+  },
+  {
+    "id": 300052,
+    "name": "荒骷髅",
+    "dualSuiteBonusType": null,
+    "dualSuiteBonusValue": null
+  },
+  {
+    "id": 300053,
+    "name": "地震鲶",
+    "dualSuiteBonusType": null,
+    "dualSuiteBonusValue": null
+  },
+  {
+    "id": 300054,
+    "name": "蜃气楼",
+    "dualSuiteBonusType": null,
+    "dualSuiteBonusValue": null
+  },
+  {
+    "id": 300073,
+    "name": "飞缘魔",
+    "dualSuiteBonusType": null,
+    "dualSuiteBonusValue": null
+  },
+  {
+    "id": 300074,
+    "name": "兵主部",
+    "dualSuiteBonusType": null,
+    "dualSuiteBonusValue": null
+  },
+  {
+    "id": 300075,
+    "name": "青女房",
+    "dualSuiteBonusType": null,
+    "dualSuiteBonusValue": null
+  },
+  {
+    "id": 300076,
+    "name": "涂佛",
+    "dualSuiteBonusType": null,
+    "dualSuiteBonusValue": null
+  },
+  {
+    "id": 300077,
+    "name": "鬼灵歌伎",
+    "dualSuiteBonusType": null,
+    "dualSuiteBonusValue": null
+  }
+]
