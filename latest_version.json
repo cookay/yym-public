@@ -1,6 +1,6 @@
 {
-	"versionCode":4,
-	"versionName":"1.0.3",
-	"changeLog":"修正生命两件套加成数值。",
-	"downloadUrl":"https://github.com/cookay/yym-public/releases/download/1.0.3/yym-1.0.3.apk"
+	"versionCode":6,
+	"versionName":"1.0.5",
+	"changeLog":"支持在配置结果御魂中查看冲突的配置，方便查找御魂。",
+	"downloadUrl":"https://github.com/cookay/yym-public/releases/download/1.0.5/yym-1.0.5.apk"
 }
